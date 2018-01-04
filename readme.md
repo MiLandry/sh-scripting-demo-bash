@@ -1,6 +1,6 @@
-#shell scripting demo
+# shell scripting demo
 
-##how to
+## how to
 
 `sh ./script-you-want-to-run`
 
